@@ -15,8 +15,8 @@ pip install pyarmor
 
 pip install bs4
 
-git clone https://github.com/alamgir441/Alamgir.git
+git clone https://github.com/Mahdi-hasan580/maxall
 
-cd Alamgir
+cd maxall
 
-python Alamgir411.py
+python mahdi.py
